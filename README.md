@@ -13,7 +13,6 @@ Desenvolvedor de Software com mais de **2 anos de experiência** e estudos na á
 No futuro, pretendo expandir minha atuação para **Mobile** e **Cibersegurança**.
 
 * 📂 **Portfólio:** [portifolio-ruan-2024.vercel.app](https://portifolio-ruan-2024.vercel.app)
-* 📄 **Currículo:** [Visualizar CV](https://l1nq.com/7xBTX)
 
 ---
 
