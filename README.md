@@ -51,7 +51,7 @@ No futuro, pretendo expandir minha atuação para **Mobile** e **Cibersegurança
 ![H2](https://img.shields.io/badge/H2_Database-003545?style=for-the-badge&logo=h2&logoColor=white)
 
 ### Ferramentas, DevOps & Outros
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
